@@ -6,6 +6,6 @@ video link: https://www.youtube.com/watch?v=5qwpAn8bqCg&t=11003s
 
 Goal: Advance myself with the concepts of Nextjs and Tailwindcss.
 
-Note: No copy paste code here.
-
 Deployment Link : https://spotyclone.vercel.app/
+
+Note: The music player only works for the Spotify premium accounts.
